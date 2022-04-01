@@ -19,3 +19,9 @@
 [submodule "Go/Go-Library-Management"]
 	path = Go/Go-Library-Management
 	url = git@github.com:TheFenrisLycaon/LibraryMS.git
+[submodule "React/Portfolio"]
+	path = React/Portfolio
+	url = git@github.com:TheFenrisLycaon/React-Portfolio
+[submodule "React/portfolio"]
+	path = React/portfolio
+	url = git@github.com:TheFenrisLycaon/React-Portfolio
