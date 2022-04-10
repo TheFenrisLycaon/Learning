@@ -1,15 +1,3 @@
-[submodule "LibraryMS"]
-	path = LibraryMS
-	url = git@github.com:TheFenrisLycaon/LibraryMS.git
-[submodule "simple-go-server"]
-	path = simple-go-server
-	url = git@github.com:TheFenrisLycaon/simple-go-server.git
-[submodule "Go-CRUD-Movies"]
-	path = Go-CRUD-Movies
-	url = git@github.com:TheFenrisLycaon/Go-CRUD-Movies.git
-[submodule "Go/Go-Slack"]
-	path = Go/Go-Slack
-	url = git@github.com:TheFenrisLycaon/Slackoken
 [submodule "Go/Go-Server"]
 	path = Go/Go-Server
 	url = git@github.com:TheFenrisLycaon/simple-go-server.git
@@ -19,9 +7,3 @@
 [submodule "Go/Go-Library-Management"]
 	path = Go/Go-Library-Management
 	url = git@github.com:TheFenrisLycaon/LibraryMS.git
-[submodule "React/Portfolio"]
-	path = React/Portfolio
-	url = git@github.com:TheFenrisLycaon/React-Portfolio
-[submodule "React/portfolio"]
-	path = React/portfolio
-	url = git@github.com:TheFenrisLycaon/React-Portfolio
